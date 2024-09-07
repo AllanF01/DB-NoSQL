@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66dc56369e108e91312710bc"
+  },
+  "nombre": "Teclado",
+  "precio": 120.43,
+  "cantidad": 3,
+  "categoria": "Perifericos"
+},
+{
+  "_id": {
+    "$oid": "66dc58869e108e91312710bd"
+  },
+  "nombre": "Laptop",
+  "precio": 500.99,
+  "cantidad": 1,
+  "categoria": "Computadoras"
+},
+{
+  "_id": {
+    "$oid": "66dc59029e108e91312710be"
+  },
+  "nombre": "Adaptadores",
+  "precio": 100,
+  "cantidad": 5,
+  "categoria": "Accesorios"
+},
+{
+  "_id": {
+    "$oid": "66dc59699e108e91312710bf"
+  },
+  "nombre": "Memoria RAM",
+  "precio": 300,
+  "cantidad": 3,
+  "categoria": "Componentes"
+}]
